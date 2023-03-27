@@ -29,6 +29,9 @@ Modelo stylizado de layout
 
 ![](https://github.com/Diegojfsr/CSS_Grid_Layout/blob/main/GridLayout/Print/Captura%20de%20tela%202023-03-26%20124744.png)
 
+
+![](https://github.com/Diegojfsr/CSS_Grid_Layout/blob/main/CSS%20Grid%20Layout%20responsivo/print/Captura%20de%20tela%202023-03-26%20213141.png)
+
 Explorei o grid layout e como fazer um layout usando o Css grid layout.
 
 
